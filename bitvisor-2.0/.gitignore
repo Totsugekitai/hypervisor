@@ -3,11 +3,13 @@
 *.map
 *.a
 *.o
+*.d
 *.bin
 *.bin.s
 .depends
 .flags
 .objects
+.boptions
 */*.elf
 */*.efi
 */*.a
